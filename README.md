@@ -9,5 +9,8 @@ Once completed, run:
 
 For a new User Account rather than a fresh Ubuntu 16.04,
 
+Change directory to UserAccount:
 `cd UserAccount`
+
+Run script:
 `bash startup.sh`
