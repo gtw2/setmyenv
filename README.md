@@ -7,7 +7,7 @@ To run:
 Once completed, run:
 `source $HOME/.bashrc`
 
-For a new Uer Account rather than a fresh Ubuntu 16.04,
+For a new User Account rather than a fresh Ubuntu 16.04,
 
 `cd UserAccount`
 `bash startup.sh`
